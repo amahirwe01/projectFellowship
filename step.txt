@@ -1,0 +1,6 @@
+cd path
+python app.py
+enter
+
+convert
+jupyter nbconvert projectname.ipynb --to python
